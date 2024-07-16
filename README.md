@@ -60,9 +60,6 @@
   <a href="https://www.linkedin.com/in/anwit-dahal-9449a3314/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/DahalAnwit" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="45" alt="twitter logo"  />
-  </a>
   <a href="https://www.facebook.com/anwit.dahal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="45" alt="facebook logo"  />
   </a>
