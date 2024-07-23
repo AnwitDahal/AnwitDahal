@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning NodeJS, ExpressJS, MongoDB<br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
+<p align="left">- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
 
 ###
 <div align="center">
@@ -50,6 +50,8 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
 
