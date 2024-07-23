@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
+<p align="left">- 📚 I'm currently learning TypeScript with NodeJS, ExpressJS and MongoDB <br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
 
 ###
 <div align="center">
@@ -46,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
