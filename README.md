@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning TypeScript as well as NodeJS, ExpressJS and MongoDB <br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
+<p align="left">- 📚 I'm currently learning MERN Stack with JavaScript & TypeScript <br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
 
 ###
 <div align="center">
