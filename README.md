@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hello! 👋 My name is Anwit Dahal and I am a dedicated web developer from Nepal driven by a strong passion for learning and growth.</h2>
+<h2 align="center">Hello! 👋 My name is Anwit Dahal </h2> <br> <h3> Enthusiast full stack web developer</h3>
 
 ###
 
