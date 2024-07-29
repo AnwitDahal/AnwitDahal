@@ -18,7 +18,6 @@
 
 ###
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anwitdahal&label=Profile%20views&color=0e75b6&style=flat" alt="anwitdahal" /> </p>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
