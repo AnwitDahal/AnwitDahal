@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hello! 👋My name is Anwit Dahal </h2> <br> <h3 align='center'> Enthusiast full stack web developer</h3>
+<h2 align="center">Hello!👋My name is Anwit Dahal </h2> <br> <h3 align='center'> Enthusiast full stack web developer</h3>
 
 ###
 
