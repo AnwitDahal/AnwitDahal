@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning GSAP & Three.js with React<br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
+<p align="left">- 📚 I'm currently learning ASP .NET Core and Angular<br>- ⚡ In my free time I code(maybe)😉🤷‍♂️</p>
 
 ###
 <div align="center">
